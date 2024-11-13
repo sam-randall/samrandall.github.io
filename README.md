@@ -12,7 +12,6 @@ Design and collaborate on full-stack software solutions to meet business opportu
 ### *Data* Processing / Analysis
 Help you scrape, organize, clean and analyze your data.
 ### *ML / Software* Integration
-Help you build production-ready ML software systems.
 Specialty: iOS. Open to other opportunities.
 ### Algorithm Development and Implementation
 Use Graph-Theory based & optimization based algorithms to solve hard problems.
