@@ -32,6 +32,7 @@ Use Graph-Theory based & optimization based algorithms to solve hard problems.
 - AI Regulation
 - Model Compression
 - Applied Topology
+- Climate Tech
 
 
 
