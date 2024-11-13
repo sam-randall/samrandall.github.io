@@ -8,7 +8,7 @@ Advise and implement automation of inefficient or manual processes with software
 
 
 ### System Design and Implementation
-Design full-stack software solutions for your business problems and create teams to execute projects.
+Design full-stack software solutions for your business problems.
 ### *Data* Processing / Analysis
 Help you scrape, organize, clean and analyze your data.
 ### *ML / Software* Integration
