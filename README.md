@@ -4,17 +4,16 @@
 ## What I can help you with
 ### Make your business more efficient
 
-Advise you on how to automate inefficient processes with software and AI to make your business more productive.
+Advise and implement automation of inefficient or manual processes with software and AI to make your business more productive.
 
-### Data Processing / Analysis
-Help you scrape, organize, clean and analyze your data.
-### ML/Software Integration
-Help you build production-ready ML software systems.
-Specialty: iOS. Open to other opportunities.
-### ML Development
-Help you build road-worthy ML systems to serve customer needs properly by taking a closer look at your training data.
+
 ### System Design and Implementation
 Design full-stack software solutions for your business problems and create teams to execute projects.
+### *Data* Processing / Analysis
+Help you scrape, organize, clean and analyze your data.
+### *ML / Software* Integration
+Help you build production-ready ML software systems.
+Specialty: iOS. Open to other opportunities.
 ### Algorithm Development and Implementation
 Use Graph-Theory based & optimization based algorithms to solve hard problems.
 
