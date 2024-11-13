@@ -26,5 +26,7 @@ Coming Soon...
 - Applied Topology
 - Climate Tech
 
+Contact me at samrandall@alumni.stanford.edu
+
 
 
