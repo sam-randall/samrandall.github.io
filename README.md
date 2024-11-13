@@ -6,8 +6,8 @@
 
 Advise you on how to automate inefficient processes with software and AI to make your business more productive.
 
-### Data Collection / Processing
-Help you scrape, organize, and clean your data.
+### Data Processing / Analysis
+Help you scrape, organize, clean and analyze your data.
 ### ML/Software Integration
 Help you build production-ready ML software systems.
 Specialty: iOS. Open to other opportunities.
