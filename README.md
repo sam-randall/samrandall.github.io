@@ -18,14 +18,7 @@ Use Graph-Theory based & optimization based algorithms to solve hard problems.
 
 ## Testimonials
 
-"..."
-- Chris ..., CTO, ... Security
-
-"..."
-- Nick, ..., ... Residential
-
-"..."
-- 
+Coming Soon...
 
 ## Interested In
 - AI Regulation
