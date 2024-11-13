@@ -19,7 +19,9 @@ Design and collaborate on full-stack software solutions to meet business opportu
 ### Data Processing / Analysis
 Help you scrape, organize, clean and analyze your data.
 ### ML / Software Integration
+
 Specialty: iOS. Open to other opportunities.
+
 Work Example: See the iPad App I built for Athena Security in <a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank">action.</a>
 
 ### Algorithm Development and Implementation
