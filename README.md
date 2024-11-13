@@ -26,8 +26,8 @@ Coming Soon...
 - Applied Topology
 - Climate Tech
 
-Resume
-<a href="http://samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">Resume.</a>
+Resume: 
+<a href="https://sam-randall.github.io/samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">Resume</a>
 
 Contact me at samrandall@alumni.stanford.edu
 
