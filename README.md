@@ -1,10 +1,9 @@
 # Sam Randall Consulting
 ### I am an engineering consultant who has experience tackling complex challenges with software and machine learning.
 
-Additionally, I have a strong background in Applied Mathematics (BS, Johns Hopkins University, MS Stanford University) and find the intersections of applied mathematics with software and ML to be fascinating.
+I'm also very interested in mathematical problems (e.g optimization, combinatorics) and system modeling tasks (e.g simulation, graphical modeling, geometric modeling) given my strong interest in Applied Mathematics. I received my Masters from Stanford University in Mathematical and Computational Engineering and find the intersections of applied mathematics with software and ML to be fascinating.
 
-My resume is linked  
-<a href="https://sam-randall.github.io/samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">here.</a>
+My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">here.</a>
 
 Contact me at samrandall@alumni.stanford.edu
 
