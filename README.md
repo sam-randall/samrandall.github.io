@@ -14,7 +14,7 @@ Help you scrape, organize, clean and analyze your data.
 ### ML / Software Integration
 Specialty: iOS. Open to other opportunities.
 ### Algorithm Development and Implementation
-Use Graph-Theory based & optimization based algorithms to solve hard problems.
+Use graph-based & optimization-based algorithms to solve hard problems.
 
 ## Testimonials
 
