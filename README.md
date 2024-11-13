@@ -8,7 +8,6 @@ My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/
 Contact me at samrandall@alumni.stanford.edu
 
 
-
 ## What I can help you with
 ### Make your business more efficient
 
@@ -21,6 +20,7 @@ Design and collaborate on full-stack software solutions to meet business opportu
 Help you scrape, organize, clean and analyze your data.
 ### ML / Software Integration
 Specialty: iOS. Open to other opportunities.
+- Work Example: See the iPad App I built for Athena Security in <a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank">action.</a>
 ### Algorithm Development and Implementation
 Use graph-based & optimization-based algorithms to solve hard problems.
 
