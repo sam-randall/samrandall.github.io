@@ -17,7 +17,7 @@ Advise and implement automation of inefficient or manual processes with software
 ### System Design and Implementation
 Design and collaborate on full-stack software solutions to meet business opportunities.
 ### Data Processing / Analysis
-Help you scrape, organize, clean and analyze your data.
+Scrape, organize, clean and analyze data for your needs.
 ### ML / Software Integration
 
 Specialty: iOS. Open to other opportunities.
