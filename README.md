@@ -22,7 +22,7 @@ Help you scrape, organize, clean and analyze your data.
 
 Specialty: iOS. Open to other opportunities.
 
-Work Example: See the iPad App I built for Athena Security in action.</a>
+Work Example: See the iPad App I built for Athena Security in action.
 
 <div class="container">
   <iframe width="560" src="https://www.youtube.com/watch?v=r2YbpxIprDI"></iframe>
