@@ -11,7 +11,7 @@ Contact me at samrandall@alumni.stanford.edu
 ## What I can help you with
 ### Make your business more efficient
 
-Advise and implement automation of inefficient or manual processes with software (may require AI) to make your business more productive.
+Advise and implement automation of inefficient or manual processes with software (may require AI).
 
 
 ### System Design and Implementation
