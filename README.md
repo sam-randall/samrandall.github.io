@@ -5,7 +5,7 @@ I'm also very interested in mathematical problems (e.g optimization, combinatori
 
 My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">here.</a>
 
-Contact me at samrandall@alumni.stanford.edu
+Contact me at <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a>
 
 
 ## What I can help you with
@@ -24,12 +24,8 @@ Specialty: iOS. Open to other opportunities.
 
 Work Example: See the iPad App I built for Athena Security in action.
 
-<div class="container">
-  <iframe width="560" src="https://www.youtube.com/watch?v=r2YbpxIprDI"></iframe>
-</div>
-
 Use this
-<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank">link</a>  if the above video does not play.
+<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a>. 
 
 ### Algorithm Development and Implementation
 Use graph-based & optimization-based algorithms to solve hard problems.
