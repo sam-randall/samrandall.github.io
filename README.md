@@ -28,7 +28,7 @@ Use this
 <a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a>. 
 
 ### Algorithm Development and Implementation
-Use graph-based & optimization-based algorithms to solve hard problems (scheduling algorithms, matching algorithms, network optimization, supply chain optimization).
+Use graph-based & optimization-based algorithms to solve hard problems via optimization and integer programming (scheduling algorithms, matching algorithms, network optimization, supply chain optimization).
 
 ## Testimonials
 
