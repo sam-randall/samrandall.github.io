@@ -30,10 +30,6 @@ Use this
 ### Algorithm Development and Implementation
 Use graph-based & optimization-based algorithms to solve hard problems via optimization and integer programming (scheduling algorithms, matching algorithms, network optimization, supply chain optimization).
 
-## Testimonials
-
-Coming Soon...
-
 ## Interested In
 - AI Regulation
 - Model Compression
