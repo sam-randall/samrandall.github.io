@@ -4,7 +4,7 @@
 #### Profile
 Data & AI Consultant with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating ML models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
 
-I'm also very interested in mathematical problems (e.g optimization, combinatorics) and system modeling tasks (e.g simulation, graphical modeling, geometric modeling) given my strong interest in Applied Mathematics. I received my Masters from Stanford University in Mathematical and Computational Engineering and find the intersections of applied mathematics with software and ML to be fascinating.
+I received my Masters from Stanford University in Mathematical and Computational Engineering and received my Bachlors from Johns Hopkins in Applied Mathematics and Public Health. Using software and ML to solve real-world problems and make people's lives better is my mission.
 
 My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">here.</a>
 
