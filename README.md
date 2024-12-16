@@ -4,7 +4,7 @@
 #### Profile
 Data & AI Consultant with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating ML models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
 
-I received my Masters from Stanford University in Mathematical and Computational Engineering and received my Bachlors from Johns Hopkins in Applied Mathematics and Public Health. 
+I received my Masters from Stanford University in Mathematical and Computational Engineering and received my Bachelors from Johns Hopkins in Applied Mathematics and Public Health. 
 
 My mission is to solve real-world problems with software and ML to make people's lives better.
 
