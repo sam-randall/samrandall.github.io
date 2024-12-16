@@ -45,7 +45,7 @@ In college, I modeled out the dynamics of leukemia cells and healthy cells with 
 #### Climate Tech 
 - Apply data-driven and algorithmic methods to sustainability and climate solutions.
 #### Network Optimization / Discrete Mathematics Algorithms
-- Use graph-based & optimization-based algorithms to solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, &supply chain optimization).
+- Use graph-based & optimization-based algorithms to solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, &  chain optimization).
 
 
 
