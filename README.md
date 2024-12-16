@@ -13,9 +13,6 @@ Contact me at <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a
 
 ## What I can help you with
 
-### System Design and Implementation
-Design and collaborate on full-stack software solutions to meet business opportunities.
-
 ### Data Processing / Analysis
 Scrape, organize, clean and analyze data for your needs.
 
@@ -28,15 +25,27 @@ I can train ML models and embed them on edge applications or in the cloud to ser
 Work Example: See the iPad App I built for Athena Security in action.
 
 Use this
-<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a>. 
+<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a>.
 
-### Algorithm Development and Implementation
-Use graph-based & optimization-based algorithms to solve hard problems via optimization and integer programming (scheduling algorithms, matching algorithms, network optimization, supply chain optimization).
+### System Design and Implementation
+Design and collaborate on full-stack software solutions to meet business opportunities.
 
-## Interested In
-- AI Regulation
-- Applied Topology
-- Climate Tech
+### System Modeling
+At PHICOR, I worked on a team to model how epidemics (Zika, Chagas) impact a population. We used differential equation (SIR) models.
+
+In college, I modeled out the dynamics of leukemia cells and healthy cells with a 1D vein using partial differential equations. 
+
+ 
+
+## Interests
+#### AI Regulation
+- Hoping to connect with teams who need tight control over their ML models.
+#### Applied Topology
+- Leveraging topological data analysis and other emerging mathematical tools to build data processing systems.
+#### Climate Tech 
+- Apply data-driven and algorithmic methods to sustainability and climate solutions.
+#### Network Optimization / Discrete Mathematics Algorithms
+- Use graph-based & optimization-based algorithms to solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, &supply chain optimization).
 
 
 
