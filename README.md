@@ -4,16 +4,23 @@
 #### Profile
 Data & AI Consultant with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating ML models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
 
-I received my Masters from Stanford University in Mathematical and Computational Engineering and received my Bachelors from Johns Hopkins in Applied Mathematics and Public Health. 
+#### Core Aim
+Understand and solve complex real-world problems to make people's lives better.
 
-My mission is to solve real-world problems with software and ML to make people's lives better.
+#### Education
+
+Stanford University, MS, Computational and Mathematical Engineering.
+
+Johns Hopkins University, BS, Applied Mathematics and Public Health. 
+
+
 
 My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/ConsultantRandall_Resume.pdf" target="_blank">here.</a>
 
 Contact me at <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a>
 
 
-## What I can help you with
+## Core Competencies
 
 ### Data Processing / Analysis
 Scrape, organize, clean and analyze data for your needs.
@@ -37,7 +44,7 @@ At PHICOR, I worked on a team to model how epidemics (Zika, Chagas) impact a pop
 
 In college, I modeled out the dynamics of leukemia cells and healthy cells with a 1D vein using partial differential equations. 
 
- 
+
 
 ## Interests
 #### AI Regulation
