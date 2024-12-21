@@ -58,7 +58,7 @@ I am also interested in applying concepts from mathematics (geometry and topolog
 - Computational Theory & algorithms
     - Encryption & Data Compression
     - Graph Flow Algorithms
-- Applied Physics, Computational Biology, 
+- Interested in exploring applications to Applied Physics & Computational Biology. 
 
 
 
