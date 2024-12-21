@@ -56,7 +56,6 @@ Of course, I am open to other applications.
 I am also interested in applying concepts from mathematics (geometry and topology) to invigorate innovations & research in other disciplines:
 - Machine Learning (esp. computer vision)
 - Computational Theory & algorithms
-- Applied Algorithms
     - Encryption & Data Compression
     - Graph Flow Algorithms
 - Applied Physics, Computational Biology, 
