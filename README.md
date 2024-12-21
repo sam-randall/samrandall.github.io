@@ -37,14 +37,14 @@ Use this
 ### System Modeling
 At PHICOR, I worked on a team to model how epidemics (Zika, Chagas) impact a population. We used differential equation (SIR) models.
 
-At the Whitaker lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations. 
+At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel-whitaker" target="_blank"> Whitaker</a> lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations. 
 
 ## Interests
 
 #### Applied Topology
 - Leveraging topological data analysis and other emerging mathematical tools to build data processing systems.
 
-#### Climate Tech & Policy Analysis
+#### Climate Tech & Policy
 - Apply data-driven and algorithmic methods to sustainability and climate solutions.
 
 #### Network Optimization / Discrete Mathematics Algorithms
