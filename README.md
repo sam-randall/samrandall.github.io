@@ -37,20 +37,21 @@ Use this
 ### System Modeling
 At PHICOR, I worked on a team to model how epidemics (Zika, Chagas) impact a population. We used differential equation (SIR) models.
 
-At the Whitaker lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells with a 1D vein using partial differential equations. 
+At the Whitaker lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations. 
 
 ## Interests
-#### AI Regulation
-- Hoping to connect with teams who need tight control over their ML models.
 
 #### Applied Topology
 - Leveraging topological data analysis and other emerging mathematical tools to build data processing systems.
 
-#### Climate Tech 
+#### Climate Tech & Policy Analysis
 - Apply data-driven and algorithmic methods to sustainability and climate solutions.
 
 #### Network Optimization / Discrete Mathematics Algorithms
 - Solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, & supply chain optimization).
+
+#### AI Regulation
+- Hoping to connect with teams who need tight control over their ML models.
 
 
 
