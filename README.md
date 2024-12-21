@@ -1,10 +1,11 @@
 # Sam Randall
 
-#### Profile
-Data & AI Professional with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating machine learning (ML) models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
-
 #### Core Aim
 Understand and solve complex real-world problems to make people's lives better.
+
+
+#### Profile
+Data & AI Professional with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating machine learning (ML) models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
 
 #### Education
 
@@ -39,10 +40,8 @@ At PHICOR, I worked on a team to model how epidemics (<a href="https://pubmed.nc
 
 At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel-whitaker" target="_blank"> Whitaker</a> lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations. 
 
-## Interests
-
-#### Applied Topology
-- Leveraging topological data analysis and other emerging mathematical tools to build data processing systems.
+## Applications of Interest
+Of course, I am open to other applications.
 
 #### Climate Tech & Policy
 - Apply data-driven and algorithmic methods to sustainability and climate solutions.
@@ -52,6 +51,16 @@ At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel
 
 #### AI Regulation
 - Hoping to connect with teams who need tight control over their ML models.
+
+## Research Interests
+I am also interested in applying concepts from mathematics (geometry and topology) to invigorate innovations & research in other disciplines:
+- Machine Learning (esp. computer vision)
+- Computational Theory & algorithms
+- Applied Algorithms
+    - Encryption & Data Compression
+    - Graph Flow Algorithms
+- Applied Physics, Computational Biology, 
+
 
 
 
