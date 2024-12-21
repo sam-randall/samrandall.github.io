@@ -1,8 +1,7 @@
-# Sam Randall Consulting
-### I help teams use data, software and AI to solve technical challenges.
+# Sam Randall
 
 #### Profile
-Data & AI Consultant with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating ML models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
+Data & AI Professional with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating machine learning (ML) models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
 
 #### Core Aim
 Understand and solve complex real-world problems to make people's lives better.
@@ -22,7 +21,7 @@ Contact me at <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a
 ### Data Processing / Analysis
 Scrape, organize, clean and analyze data for your needs.
 
-Example: In 2018, I scripted data analysis software while working at PHICOR to standardize processes and reduce manual work spent on formatting text and figures. 
+I scripted data analysis software while working at PHICOR to standardize processes and reduce manual work spent on formatting text and figures. 
 
 ### ML / Software Integration
 
@@ -38,8 +37,7 @@ Use this
 ### System Modeling
 At PHICOR, I worked on a team to model how epidemics (Zika, Chagas) impact a population. We used differential equation (SIR) models.
 
-In college, I modeled out the dynamics of leukemia cells and healthy cells with a 1D vein using partial differential equations. 
-
+At the Whitaker lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells with a 1D vein using partial differential equations. 
 
 ## Interests
 #### AI Regulation
@@ -52,7 +50,7 @@ In college, I modeled out the dynamics of leukemia cells and healthy cells with 
 - Apply data-driven and algorithmic methods to sustainability and climate solutions.
 
 #### Network Optimization / Discrete Mathematics Algorithms
-- Use graph-based & optimization-based algorithms to solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, & supply chain optimization).
+- Solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, & supply chain optimization).
 
 
 
