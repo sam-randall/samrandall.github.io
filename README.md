@@ -39,7 +39,7 @@ At PHICOR, I worked to model, understand & quantify how epidemics (
     <a href="https://pubmed.ncbi.nlm.nih.gov/30544164/" target="_blank">Zika</a>,
     <a href="https://pubmed.ncbi.nlm.nih.gov/31104883/" target="_blank">Chagas</a>, and
     <a href="https://www.sciencedirect.com/science/article/pii/S0749379721000210" target = "blank_">COVID</a>
-) impact a population. We used SIR and Markov Models models, respectively.
+) impact a population. We used SIR and Markov models.
 
 At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel-whitaker" target="_blank"> Whitaker</a> lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations. 
 
