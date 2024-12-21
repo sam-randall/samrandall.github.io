@@ -3,7 +3,6 @@
 #### Core Aim
 Understand and solve complex real-world problems to make people's lives better.
 
-
 #### Profile
 Data & AI Professional with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating machine learning (ML) models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
 
@@ -57,7 +56,7 @@ I am also interested in applying concepts from mathematics (geometry and topolog
 - Machine Learning (esp. computer vision)
 - Computational Theory & algorithms
     - Encryption & Data Compression
-    - Graph Flow Algorithms
+    - Graph Flow Algorithms, Causal Modeling.
 - Interested in exploring applications to Applied Physics & Computational Biology. 
 
 
