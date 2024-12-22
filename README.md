@@ -3,9 +3,6 @@
 #### Core Aim
 Understand and solve complex real-world problems to make people's lives better.
 
-#### Profile
-Data & AI Professional with a strong foundation in applied mathematics, computational engineering, and full-stack software development. Skilled at designing and implementing end-to-end data pipelines, integrating machine learning (ML) models (computer vision, natural language, tabular predictive modeling) into production systems, and solving complex optimization problems. Adept at translating technical insights into strategic business recommendations.
-
 #### Education
 
 Stanford University, MS, Computational and Mathematical Engineering.
