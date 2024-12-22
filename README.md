@@ -1,7 +1,13 @@
 # Sam Randall
 
+
 #### Core Aim
 Understand and solve complex real-world problems to make people's lives better.
+
+#### Profile
+I bridge the software engineering and data science world with computational engineering.
+I build automated data analysis pipelines and build and embed models into software systems that lead to improved business and policy decisions.
+I am also an applied mathematical researcher interested in applications of topology into various domains.
 
 #### Education
 
