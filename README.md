@@ -56,6 +56,10 @@ Of course, I am open to other applications.
 #### AI Regulation
 - Hoping to connect with teams who need tight control over their ML models.
 
+#### Real-Time ML / Tiny ML (on IoT) / Robotics
+- I'm really interested in working on resource-constrained ML problems. 
+
+
 ## Research Interests
 I am also interested in applying concepts from mathematics (geometry and topology) to invigorate innovations & research in other disciplines:
 - Machine Learning (esp. computer vision)
