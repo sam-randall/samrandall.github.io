@@ -4,7 +4,13 @@ plugins:
   - jekyll-seo-tag
 
 title: "Samuel Randall Consulting"
-tagline: "AI Engineer"
-description: "To share Sam Randall's interest in working on machine learning and software engineering projects, citing his academic background at Stanford University and professional experience."
+tagline: "AI Consultant, Software Engineer"
+description: "To share Sam Randall's expertise in working on machine learning (ML), data science and software engineering projects; his expertise covers graph algorithms, optimization, computer vision, network theory, natural language processing and time series analysis."
 url: "https://sam-randall.github.io/samrandall.github.io/"
 author: "Samuel Randall"
+
+
+social:
+  name: "Samuel Randall Consulting"
+  links:
+    - https://www.linkedin.com/in/samuel-randall-9a3068110/
