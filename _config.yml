@@ -1,0 +1,10 @@
+
+
+plugins:
+  - jekyll-seo-tag
+
+title: "Samuel Randall Consulting"
+tagline: "AI Engineer"
+description: "To share Sam Randall's interest in working on machine learning and software engineering projects, citing his academic background at Stanford University and professional experience."
+url: "https://sam-randall.github.io/samrandall.github.io/"
+author: "Samuel Randall"
