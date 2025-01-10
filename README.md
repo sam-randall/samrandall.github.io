@@ -6,8 +6,8 @@ Understand and solve complex real-world problems to make people's lives better.
 
 #### Profile
 I bridge the software engineering and data science world and use that bridge to solve complex problems with mathematical engineering.
-I build automated data analysis pipelines and build and embed models into software systems that lead to improved business and policy decisions.
-I am also an applied mathematical researcher interested in applications of topology into various domains.
+I build **data analysis pipelines** and **real-time ML applications**.
+I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
 
 #### Education
 
