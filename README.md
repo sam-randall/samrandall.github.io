@@ -63,8 +63,8 @@ Of course, I am open to other applications.
 #### Network Optimization / Discrete Mathematics Algorithms
 - Solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, & supply chain optimization).
 
-#### AI Regulation
-- Hoping to connect with teams who need tight control over their ML models.
+#### AI Control
+- Hoping to connect with teams who need tight control or explainability over their ML models.
 
 #### Real-Time ML / Tiny ML (on IoT) / Robotics
 - I'm really interested in working on resource-constrained ML problems. 
