@@ -55,20 +55,15 @@ Additionally, in CUDA and OpenMP, I coded a multi-machine training algorithm for
 
 
 ## Applications of Interest
-Of course, I am open to other applications.
-
-#### Climate Tech & Policy
-- Apply data-driven and algorithmic methods to sustainability and climate solutions.
-
-#### Network Optimization / Discrete Mathematics Algorithms
-- Solve combinatorial optimization and integer programming problems (examples include scheduling algorithms, matching algorithms, network optimization, & supply chain optimization).
-
-#### AI Control
-- Hoping to connect with teams who need tight control or explainability over their ML models.
 
 #### Real-Time ML / Tiny ML (on IoT) / Robotics
 - I'm really interested in working on resource-constrained ML problems. 
 
+#### AI Control
+- Hoping to connect with teams who need tight control or explainability over their ML models.
+
+#### Climate Tech & Policy
+- Apply data-driven and algorithmic methods to sustainability and climate solutions.
 
 ## Research Interests
 I am also interested in applying concepts from mathematics (geometry and topology) to invigorate innovations & research in other disciplines:
