@@ -5,8 +5,10 @@
 Understand and solve complex real-world problems to make people's lives better.
 
 #### Profile
-I bridge the software engineering and data science world and use that bridge to solve complex problems with mathematical engineering.
-I build **iOS apps**, **real-time ML applications** and **data dashboards**.
+I bridge the software engineering, data science and mathematical spaces to solve complex problems.
+
+I build **real-time ML applications**, and **graph visualizations**, **iOS apps**, and **data dashboards**.
+
 I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
 
 #### Education
@@ -28,9 +30,9 @@ I scripted data analysis software while working at PHICOR to standardize process
 
 ### ML / Software Integration
 
-I can custom-build iOS applications with complex hardware and sensor requirements. 
+I custom-build iOS applications with complex hardware and sensor requirements. 
 
-I can train ML models and embed them on edge applications (e.g iOS)
+I train ML models and embed them on edge applications (e.g iOS). 
 
 Work Example: See the iPad App I built for Athena Security in action.
 
@@ -42,7 +44,15 @@ At PHICOR, I worked to model, understand & quantify how epidemics (<a href="http
     <a href="https://pubmed.ncbi.nlm.nih.gov/31104883/" target="_blank">Chagas</a>, and
     <a href="https://www.sciencedirect.com/science/article/pii/S0749379721000210" target = "blank_">COVID</a>) impact a population. We used SIR and Markov models.
 
-At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel-whitaker" target="_blank"> Whitaker</a> lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations. 
+At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel-whitaker" target="_blank"> Whitaker</a> lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations.
+
+### High Performance Computing
+I also have a strong background in High Performance Computing (C++, cuda, boost, OpenMP). I've built a physics simulator of a mesh with over 100k nodes as part of a Stanford course in Advanced Software Development. Here's a subset of the code I worked on: <a href="https://github.com/sam-randall/portfolio/blob/main/mesh_graph/Graph.hpp" target="_blank"> Mesh Graph Portfolio.</a>
+
+Additionally, in CUDA and OpenMP, I coded a multi-machine training algorithm for MNIST in CME 213, a Parallel Computing course at Stanford.
+<a href="https://github.com/sam-randall/portfolio/blob/main/neural_network_gpu/neural_network.cpp" target="_blank"> Neural Network CUDA implementation.</a>
+
+
 
 ## Applications of Interest
 Of course, I am open to other applications.
