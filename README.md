@@ -23,11 +23,6 @@ Contact me at <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a
 
 ## Select Projects & Experiences
 
-### Data Processing / Analysis
-Scrape, organize, clean and analyze data for your needs.
-
-I scripted data analysis software while working at PHICOR to standardize processes and reduce manual work spent on formatting text and figures. 
-
 ### ML / Software Integration
 
 I custom-build iOS applications with complex hardware and sensor requirements. 
@@ -52,6 +47,10 @@ I also have a strong background in High Performance Computing (C++, cuda, boost,
 Additionally, in CUDA and OpenMP, I coded a multi-machine training algorithm for MNIST in CME 213, a Parallel Computing course at Stanford.
 <a href="https://github.com/sam-randall/portfolio/blob/main/neural_network_gpu/neural_network.cpp" target="_blank"> Neural Network CUDA implementation.</a>
 
+### Data Processing / Analysis
+Scrape, organize, clean and analyze data for your needs.
+
+I scripted data analysis software while working at PHICOR to standardize processes and reduce manual work spent on formatting text and figures. 
 
 
 ## Applications of Interest
