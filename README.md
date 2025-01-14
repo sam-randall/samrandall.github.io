@@ -7,7 +7,7 @@ Understand and solve complex real-world problems to make people's lives better.
 #### Profile
 I bridge the software engineering, data science and mathematical spaces to solve complex problems.
 
-I build **real-time ML applications**, and **graph visualizations**, **iOS apps**, and **data dashboards**.
+I build **real-time ML applications**, **graph visualizations**, **iOS apps**, and **data dashboards**.
 
 I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
 
