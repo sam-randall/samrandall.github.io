@@ -34,18 +34,20 @@ Work Example: See the iPad App I built for Athena Security in action.
 Use this
 <a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a> to see a functional demo of the iPad app.
 
+
+
+### High Performance Computing
+I also have a strong background in High Performance Computing (C++, cuda, boost, OpenMP). I've built a physics simulator of a mesh with over 100k nodes as part of a Stanford course in Advanced Software Development. Here's a subset of the code I worked on: <a href="https://github.com/sam-randall/portfolio/blob/main/mesh_graph/Graph.hpp" target="_blank"> Mesh Graph Portfolio.</a>
+
+Additionally, in CUDA and OpenMP, I implemented a multi-machine training algorithm for MNIST in CME 213, a Parallel Computing course at Stanford.
+<a href="https://github.com/sam-randall/portfolio/blob/main/neural_network_gpu/neural_network.cpp" target="_blank"> Neural Network CUDA implementation.</a>
+
 ### System Modeling
 At PHICOR, I worked to model, understand & quantify how epidemics (<a href="https://pubmed.ncbi.nlm.nih.gov/30544164/" target="_blank">Zika</a>,
     <a href="https://pubmed.ncbi.nlm.nih.gov/31104883/" target="_blank">Chagas</a>, and
     <a href="https://www.sciencedirect.com/science/article/pii/S0749379721000210" target = "blank_">COVID</a>) impact a population. We used SIR and Markov models.
 
 At the <a href="https://www.umass.edu/natural-sciences/about/directory/nathaniel-whitaker" target="_blank"> Whitaker</a> lab in UMASS Amherst, I modeled the dynamics and interactions of leukemia and healthy cells within a 1D vein using partial differential equations.
-
-### High Performance Computing
-I also have a strong background in High Performance Computing (C++, cuda, boost, OpenMP). I've built a physics simulator of a mesh with over 100k nodes as part of a Stanford course in Advanced Software Development. Here's a subset of the code I worked on: <a href="https://github.com/sam-randall/portfolio/blob/main/mesh_graph/Graph.hpp" target="_blank"> Mesh Graph Portfolio.</a>
-
-Additionally, in CUDA and OpenMP, I coded a multi-machine training algorithm for MNIST in CME 213, a Parallel Computing course at Stanford.
-<a href="https://github.com/sam-randall/portfolio/blob/main/neural_network_gpu/neural_network.cpp" target="_blank"> Neural Network CUDA implementation.</a>
 
 ### Data Processing / Analysis
 Scrape, organize, clean and analyze data for your needs.
