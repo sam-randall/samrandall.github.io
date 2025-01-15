@@ -31,6 +31,8 @@ I train ML models and embed them on edge applications (e.g iOS).
 
 Work Example: See the iPad App I built for Athena Security in action.
 
+[![Athena iPap App](https://sam-randall.github.io/samrandall.github.io/static/athena_still.png)](https://www.youtube.com/watch?v=r2YbpxIprDI "Athena iPad App")
+
 Use this
 <a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a> to see a functional demo of the iPad app.
 
