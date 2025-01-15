@@ -7,7 +7,7 @@ Technical challenges motivate me, but ultimately my aim is to make the world hap
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display:flex; flex-direction: row; justify-content: center; align-items: center">
   <img src="https://sam-randall.github.io/samrandall.github.io/docs/assets/sam_profile_pic.jpg" alt="Profile Picture" width="200"/>
   <p>I bridge the software engineering, data science and mathematical spaces to solve complex problems. I build real-time ML applications, graph visualizations, iOS apps, and data dashboards. I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning). </p>
 </div>
