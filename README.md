@@ -1,8 +1,9 @@
 # Sam Randall
 
+#### Core Aims
+Solve complex real-world problems with math, computational power and AI.
 
-#### Core Aim
-Understand and solve complex real-world problems to make people's lives better.
+Technical challenges motivate me, but ultimately my aim is to make the world happier, healthier and safer.
 
 #### Profile
 I bridge the software engineering, data science and mathematical spaces to solve complex problems.
@@ -11,12 +12,12 @@ I build **real-time ML applications**, **graph visualizations**, **iOS apps**, a
 
 I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
 
-#### Target Industries
+#### Example Target Industries
 - Climate Technology (analyzing satellite data)
-- Supply Chain
-- Financial Services (e.g fraud detection)
+- Supply Chain Optimization
+- Financial Services (e.g fraud detection, financial forecasting)
 - Health Tech
-
+- AI
 
 #### Education
 
