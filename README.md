@@ -6,7 +6,7 @@ Solve complex real-world problems with math, careful algorithm design, computati
 Technical challenges motivate me, but ultimately my aim is to make the world happier, healthier and safer.
 
 
-![Profile Picture](/samrandall.github.io/assets/sam_profile_pic.png)
+![Profile Picture](https://sam-randall.github.io/samrandall.github.io/docs/assets/sam_profile_pic.png)
 #### Profile
 I bridge the software engineering, data science and mathematical spaces to solve complex problems.
 
