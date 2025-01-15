@@ -5,18 +5,13 @@ Solve complex real-world problems with math, careful algorithm design, computati
 
 Technical challenges motivate me, but ultimately my aim is to make the world happier, healthier and safer.
 
-
-
 #### Profile
 <img src="https://sam-randall.github.io/samrandall.github.io/docs/assets/sam_profile_pic.jpg" alt="Profile Picture" width="150"/>
 
-I bridge the software engineering, data science and mathematical spaces to solve complex problems. I build **real-time ML applications**, **graph visualizations**, **iOS apps**, and **data dashboards**. I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
+I bridge the software engineering, data science and mathematical spaces to solve complex problems. I build **real-time ML applications**, **graph visualizations**, **iOS apps**, and **data dashboards**. I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (e.g. machine learning, optimization).
 
 
-
-
-
-#### Example Target Industries
+#### Target Industries
 - Climate Technology (analyzing satellite data, modeling climate patterns)
 - Supply Chain Optimization
 - Financial Services (e.g fraud detection, financial forecasting, portfolio optimization)
