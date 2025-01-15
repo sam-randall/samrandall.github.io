@@ -33,10 +33,6 @@ Work Example: See the iPad App I built for Athena Security in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2YbpxIprDI?si=dPpDVelfzMbE1FIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- Use this
-<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a> to see a functional demo of the iPad app. -->
-
-
 
 ### High Performance Computing
 I also have a strong background in High Performance Computing (C++, cuda, boost, OpenMP). I've built a physics simulator of a mesh with over 100k nodes as part of a Stanford course in Advanced Software Development. Here's a subset of the code I worked on: <a href="https://github.com/sam-randall/portfolio/blob/main/mesh_graph/Graph.hpp" target="_blank"> Mesh Graph Portfolio.</a>
