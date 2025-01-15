@@ -11,6 +11,13 @@ I build **real-time ML applications**, **graph visualizations**, **iOS apps**, a
 
 I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
 
+#### Target Industries
+- Climate Technology (analyzing satellite data)
+- Supply Chain
+- Financial Services (e.g fraud detection)
+- Health Tech
+
+
 #### Education
 
 Stanford University, MS, Computational and Mathematical Engineering.
