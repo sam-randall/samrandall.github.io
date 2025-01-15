@@ -13,11 +13,13 @@ I build **real-time ML applications**, **graph visualizations**, **iOS apps**, a
 I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (esp. machine learning).
 
 #### Example Target Industries
-- Climate Technology (analyzing satellite data)
+- Climate Technology (analyzing satellite data, modeling climate patterns)
 - Supply Chain Optimization
-- Financial Services (e.g fraud detection, financial forecasting)
+- Financial Services (e.g fraud detection, financial forecasting, portfolio optimization)
 - Health Tech
 - AI
+- Robotics and Automation
+- Smart Cities / Homes
 
 #### Education
 
