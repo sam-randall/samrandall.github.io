@@ -32,8 +32,9 @@ I train ML models and embed them on edge applications (e.g iOS).
 Work Example: See the iPad App I built for Athena Security in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2YbpxIprDI?si=dPpDVelfzMbE1FIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Use this
-<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a> to see a functional demo of the iPad app.
+
+<!-- Use this
+<a href="https://www.youtube.com/watch?v=r2YbpxIprDI" target="_blank"> Youtube link</a> to see a functional demo of the iPad app. -->
 
 
 
