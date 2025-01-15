@@ -1,7 +1,7 @@
 # Sam Randall
 
 #### Core Aims
-Solve complex real-world problems with math, computational power and AI.
+Solve complex real-world problems with math, careful algorithm design, computational power and AI.
 
 Technical challenges motivate me, but ultimately my aim is to make the world happier, healthier and safer.
 
