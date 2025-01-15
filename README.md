@@ -83,7 +83,10 @@ I am also interested in applying concepts from mathematics (geometry and topolog
 - Interested in exploring applications in Applied Physics & Computational Biology. 
 
 
+## Blog
 
+Model Compression: my thoughts on SOTA approaches.
+<a href="https://sam-randall.github.io/samrandall.github.io/2024/11/19/Model-Compression.html" target="_blank">Model Compression Blog Post: 11/19/2024</a>
 
 
 
