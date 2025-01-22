@@ -12,11 +12,11 @@ I bridge the software engineering, data science and mathematical spaces to solve
 
 
 #### Target Industries
-- Smart Cities / Homes
+- Smart Cities / Homes / Grids
 - Climate Technology (analyzing satellite data, modeling climate patterns)
 - National Security
-- Robotics and Automation
-- Scientific Computing (Physics, Biology, Chemistry)
+- Robotics
+- Scientific Computing (Computational & Mathematical Physics, Computational & Mathematical Biology, Computational & Mathematical Chemistry)
 - Supply Chain Optimization
 - Financial Services (e.g fraud detection, financial forecasting, portfolio optimization)
 - AI
