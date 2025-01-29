@@ -33,6 +33,11 @@ Johns Hopkins University, BS, Applied Mathematics and Public Health.
 
 ## Select Projects & Experiences
 
+
+### Custom Clustering for ML Use Cases
+At BluelightAI, I develop algorithms to help data scientists group novel data groups, find data that's confusing the model, and trace error patterns. I applied topological concepts to deep learning to do this.
+
+
 ### ML / Software Integration
 
 I custom-build iOS applications with complex hardware and sensor requirements. 
