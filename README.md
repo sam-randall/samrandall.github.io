@@ -2,7 +2,7 @@
 
 <a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">Resume</a>
 
-Email: <a href="mailto:sam.randall5@gmail.com">samrandall@alumni.stanford.edu</a>
+Email: <a href="mailto:samrandall@alumni.stanford.edu">samrandall@alumni.stanford.edu</a>
 
 #### Core Aims
 Solve complex real-world problems with math, careful algorithm design, computational power and AI.
@@ -30,10 +30,6 @@ I bridge the software engineering, data science and mathematical spaces to solve
 Stanford University, MS, Computational and Mathematical Engineering.
 
 Johns Hopkins University, BS, Applied Mathematics and Public Health. 
-
-My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">here.</a>
-
-Contact me at <a href="mailto:samrandall@alumni.stanford.edu">samrandall@alumni.stanford.edu</a>
 
 ## Select Projects & Experiences
 
