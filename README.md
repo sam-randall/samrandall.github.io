@@ -1,5 +1,9 @@
 # Sam Randall
 
+<a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">Resume</a>
+
+Email: <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a>
+
 #### Core Aims
 Solve complex real-world problems with math, careful algorithm design, computational power and AI.
 
@@ -27,7 +31,7 @@ Stanford University, MS, Computational and Mathematical Engineering.
 
 Johns Hopkins University, BS, Applied Mathematics and Public Health. 
 
-My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_ML_Engineering_January2025.pdf" target="_blank">here.</a>
+My resume is linked <a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">here.</a>
 
 Contact me at <a href="mailto:sam.randall5@gmail.com">sam.randall5\@gmail.com</a>
 
