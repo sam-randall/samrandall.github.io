@@ -1,31 +1,31 @@
 # Sam Randall
 
-<a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">Resume</a>
-
+Current Projects:
+- Create basketball lineups, supported by backend that runs optimization: 
 <a href="https://sam-randall.github.io/samrandall.github.io/basketball-lineup-app.html" target="_blank">Lineup App</a>
 
 Email: <a href="mailto:samrandall@alumni.stanford.edu">samrandall@alumni.stanford.edu</a>
 
-#### Core Aims
-Solve complex real-world problems with math, careful algorithm design, computational power and AI.
+<a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">Resume</a>
 
-Technical challenges motivate me, but ultimately my aim is to make the world happier, healthier and safer.
+#### Core Aims
+Solve real-world problems by building software solutions
+with optimization, computer science algorithms, and machine learning.
+
+My aim is to make the world happier, healthier and safer.
 
 #### Profile
 <img src="https://sam-randall.github.io/samrandall.github.io/docs/assets/sam_profile_pic.jpg" alt="Profile Picture" width="150"/>
 
-I bridge the software engineering, data science and mathematical spaces to solve complex problems. I build **real-time ML applications**, **graph visualizations**, **iOS apps**, and **data dashboards**. I am also an applied mathematical researcher interested in applications of geometry, topology, deformation theory into various domains (e.g. machine learning, optimization).
-
 
 #### Target Industries
-- Smart Cities / Homes / Grids
+- Energy
 - Climate Technology (analyzing satellite data, modeling climate patterns)
 - National Security
 - Robotics
-- Scientific Computing (Computational & Mathematical Physics, Computational & Mathematical Biology, Computational & Mathematical Chemistry)
+- Scientific Computing
 - Supply Chain Optimization
 - Financial Services (e.g fraud detection, financial forecasting, portfolio optimization)
-- AI
 
 #### Education
 
@@ -37,7 +37,9 @@ Johns Hopkins University, BS, Applied Mathematics and Public Health.
 
 
 ### Custom Clustering for ML Use Cases
-At BluelightAI, I develop algorithms to help data scientists group novel data groups, find data that's confusing the model, and trace error patterns. I applied topological concepts to deep learning to do this.
+At BluelightAI, I developed algorithms to help data scientists group novel data groups,
+find data that's confusing the model, and trace error patterns.
+I applied topological concepts to deep learning to do this.
 
 
 ### ML / Software Integration
