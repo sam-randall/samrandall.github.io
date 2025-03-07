@@ -46,7 +46,7 @@ I applied topological concepts to deep learning to do this.
 
 I custom-build iOS applications with complex hardware and sensor requirements. 
 
-I train ML models and embed them on edge applications (e.g iOS). 
+I embed ML models on edge applications (e.g iOS). 
 
 Work Example: See the iPad App I built for Athena Security in action.
 
