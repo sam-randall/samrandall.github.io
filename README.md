@@ -2,6 +2,8 @@
 
 <a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">Resume</a>
 
+<a href="https://sam-randall.github.io/samrandall.github.io/basketball-lineup-app.html" target="_blank">Lineup App</a>
+
 Email: <a href="mailto:samrandall@alumni.stanford.edu">samrandall@alumni.stanford.edu</a>
 
 #### Core Aims
