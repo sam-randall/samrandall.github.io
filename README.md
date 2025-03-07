@@ -19,7 +19,7 @@ My aim is to make the world happier, healthier and safer.
 
 
 #### Target Industries
-- Energy
+- Energy: (modeling, grid optimization, matching supply with grid demand)
 - Climate Technology (analyzing satellite data, modeling climate patterns)
 - National Security
 - Robotics
