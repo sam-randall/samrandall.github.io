@@ -8,6 +8,8 @@
     <title>Submit Lineup</title>
 </head>
 <body>
+    <h2>Put me in coach!</h2>
+    
     <h2>Enter Players & Skill Levels</h2>
     <table id="playerTable">
         <thead>
@@ -60,13 +62,16 @@
         </tbody>
     </table>
 
+    <i>Write in 5 or more players. Include skill levels on a linear scale.</i>
+
+
     <div class="item">
         <input type="checkbox" id="init-lineup" onclick="checkInitLineup()">
         <label for="init-lineup">Provide Initial Lineup</label>
     </div>
-    <div id="initial-lineup-div">
-        
-    </div>
+
+    <i>Check initial line-up checkbox and provide 5 starting players. This step is optional.</i>
+    <div id="initial-lineup-div"> </div>
 
 
     <button onclick="submitLineup()">Create Lineup</button>
