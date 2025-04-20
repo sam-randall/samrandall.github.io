@@ -160,22 +160,17 @@
     <div style="margin-top: 1em;">
         <label>
           <input type="checkbox" id="benchConstraint" checked />
-          Maximum # of consecutive periods on the bench
+          Ensure players are not benched more than 1 period in a row.
         </label>
         <br>
         <label>
           <input type="checkbox" id="playingConstraint"/>
-          Maximum # of consecutive periods playing
+          Ensure players do not play more than 3 consecutive periods.
         </label>
         <br>
         <label>
-          <input type="checkbox" id="minPlayTimeConstraint" checked />
-          Minimum Total Playing Time for a Player
-        </label>
-        <br>
-        <label>
-          <input type="checkbox" id="maxPlayTimeConstraint" checked />
-          Maximum Total Playing Time for a Player
+          <input type="checkbox" id="fairPlayingTimeConstraint" checked />
+          Ensure players get roughly equal playing time.
         </label>
       </div>
 
@@ -284,11 +279,9 @@
 
             const numPeriods = parseInt(document.getElementById("numPeriods").value, 10)
 
-            console.log(numPeriods);
-
             const constraints = {
-                'max_play_time': document.getElementById("maxPlayTimeConstraint").checked,
-                'min_play_time': document.getElementById("minPlayTimeConstraint").checked,
+                'max_play_time': document.getElementById("fairPlayingTimeConstraint").checked,
+                'min_play_time': document.getElementById("fairPlayingTimeConstraint").checked,
                 'max_consecutive_play_time': document.getElementById("playingConstraint").checked,
                 'max_consecutive_bench_time': document.getElementById("benchConstraint").checked,
             }
