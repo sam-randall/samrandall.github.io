@@ -2,85 +2,205 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Submit Lineup</title>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Team Lineup</title>
+        <style>
+          body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f9fafb;
+            color: #333;
+            padding: 2rem;
+            max-width: 700px;
+            margin: auto;
+          }
+      
+          h2 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            color: #222;
+          }
+      
+          label {
+            font-weight: 500;
+            display: block;
+            margin-top: 1rem;
+            margin-bottom: 0.25rem;
+          }
+      
+          input[type="number"],
+          input[type="text"] {
+            padding: 0.5rem;
+            width: 100%;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+            font-size: 1rem;
+          }
+      
+          table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+            background-color: #fff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+          }
+      
+          th, td {
+            padding: 4px;
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+
+        .container {
+      display: flex;
+      gap: 2rem;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+
+    .section {
+      flex: 1;
+      min-width: 250px;
+      max-width: 100%;
+    }
+      
+          thead {
+            background-color: #f3f4f6;
+          }
+      
+          tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+          }
+      
+          i {
+            font-size: 0.9rem;
+            color: #555;
+            display: block;
+            margin-top: 0.5rem;
+            margin-bottom: 1rem;
+          }
+      
+          .item {
+            margin-top: 1rem;
+          }
+      
+          input[type="checkbox"] {
+            transform: scale(1.2);
+            margin-right: 0.5rem;
+          }
+      
+          button {
+            background-color: #2563eb;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            margin-top: 1.5rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+          }
+      
+          button:hover {
+            background-color: #1e40af;
+          }
+      
+          pre {
+            background-color: #f3f4f6;
+            padding: 1rem;
+            border-radius: 10px;
+            margin-top: 1rem;
+            overflow-x: auto;
+            font-size: 0.9rem;
+          }
+    </style>
 </head>
 <body>
     <h2>Put me in coach!</h2>
+    <p style="font-size: 0.9em; color: #555; max-width: 600px; line-height: 1.5;">
+        This app can be used to generate lineups for sports games with multiple periods.
+        Given 5 (or more) players, it generates a lineup where the team is competitive during all the periods.
+        Subject to common, important constraints:
+        <br>
+        1. Players get tired after three periods, so they need to rest.<br>
+        2. Parents don't like when players are benched for multiple consecutive periods.<br>
+        3. Every player gets minimum playing time.
+    </p>
 
-    <label for="numPeriods">Number of Periods:</label>
-    <input type="number" id="numPeriods" name="numPeriods" placeholder="Enter a number" value="5">
-    
-    <table id="playerTable">
-        <thead>
-            <tr>
-                <th>Player Name</th>
-                <th>Skill Level</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-            <tr>
-                <td><input type="text" name="playerName"></td>
-                <td><input type="text" name="skillLevel"></td>
-            </tr>
-        </tbody>
+    <div class="container">
+  <!-- Section 1: Periods and Player Table -->
+  <div class="section">
+    <label for="numPeriods">Number of Periods</label>
+    <input type="number" id="numPeriods" name="numPeriods" placeholder="Enter a number" value="5" />
+
+    <table>
+      <thead>
+        <tr>
+          <th>Player Name</th>
+          <th>Skill Level</th>
+        </tr>
+      </thead>
+      <tbody id="playerTableBody">
+        <!-- JavaScript will populate rows here -->
+      </tbody>
     </table>
 
-    <i>Write in 5 or more players. Include skill levels on a linear scale.</i>
+  </div>
 
+  <!-- Section 2: Additional Constraints -->
+  <div class="section">
+
+    <!-- Add Checkboxes for Implemented Constraints here. -->
 
     <div class="item">
-        <input type="checkbox" id="init-lineup" onclick="checkInitLineup()">
-        <label for="init-lineup">Provide Initial Lineup</label>
+      <input type="checkbox" id="init-lineup" onclick="checkInitLineup()" />
+      <label for="init-lineup">Provide Initial Lineup</label>
     </div>
 
     <i>Check initial line-up checkbox and provide 5 starting players. This step is optional.</i>
-    <div id="initial-lineup-div"> </div>
+    <div id="initial-lineup-div"></div>
+  </div>
 
-
+  <!-- Section 3: Submit and Results -->
+  <div class="section">
     <button onclick="submitLineup()">Create Lineup</button>
-    <pre id="optimization_status"></pre>
-    <pre id="output"></pre>
+    <div id="optimization_status"></div>
+    <div id="output"></div>
+  </div>
+</div>
+
+
 
     <script>
+        const tbody = document.getElementById("playerTableBody");
+
+            // Generate 10 rows
+            for (let i = 0; i < 10; i++) {
+            const row = document.createElement("tr");
+
+            const nameCell = document.createElement("td");
+            const nameInput = document.createElement("input");
+            nameInput.type = "text";
+            nameInput.name = "playerName";
+            nameCell.appendChild(nameInput);
+
+            const skillCell = document.createElement("td");
+            const skillInput = document.createElement("input");
+            skillInput.type = "text";
+            skillInput.name = "skillLevel";
+            skillCell.appendChild(skillInput);
+
+            row.appendChild(nameCell);
+            row.appendChild(skillCell);
+
+            tbody.appendChild(row);
+        }
+
 
         function checkInitLineup() {
             const isChecked = document.getElementById('init-lineup').checked;
@@ -112,7 +232,7 @@
 
 
         async function submitLineup() {
-            const table = document.getElementById("playerTable").getElementsByTagName("tbody")[0];
+            const table = document.getElementById("playerTableBody");
             const rows = table.getElementsByTagName("tr");
             const lineup = [];
 
