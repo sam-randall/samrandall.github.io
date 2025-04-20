@@ -157,6 +157,28 @@
 
     <!-- Add Checkboxes for Implemented Constraints here. -->
 
+    <div style="margin-top: 1em;">
+        <label>
+          <input type="checkbox" id="benchConstraint" checked />
+          Maximum # of consecutive periods on the bench
+        </label>
+        <br>
+        <label>
+          <input type="checkbox" id="playingConstraint" checked />
+          Maximum # of consecutive periods playing
+        </label>
+        <br>
+        <label>
+          <input type="checkbox" id="minPlayTimeConstraint" checked />
+          Minimum Total Playing Time for a Player
+        </label>
+        <br>
+        <label>
+          <input type="checkbox" id="maxPlayTimeConstraint" checked />
+          Maximum Total Playing Time for a Player
+        </label>
+      </div>
+
     <div class="item">
       <input type="checkbox" id="init-lineup" onclick="checkInitLineup()" />
       <label for="init-lineup">Provide Initial Lineup</label>
@@ -264,13 +286,26 @@
 
             console.log(numPeriods);
 
-            const d = {"players": lineup, 'initial_lineup': initialLineup, "num_periods": numPeriods};
+            const constraints = {
+                'max_play_time': document.getElementById("maxPlayTimeConstraint").checked,
+                'min_play_time': document.getElementById("minPlayTimeConstraint").checked,
+                'max_consecutive_play_time': document.getElementById("playingConstraint").checked,
+                'max_consecutive_bench_time': document.getElementById("benchConstraint").checked,
+            }
+
+            let d = {"players": lineup, 'initial_lineup': initialLineup, "num_periods": numPeriods};
+            d['enabled_constraints'] = constraints;
 
             try {
 
                 console.log(d)
 
-                const response = await fetch("https://put-me-in.onrender.com/submit_lineup/", {
+                const is_dev = true;
+
+                const dev_url = "https://localhost:8000/submit_lineup/";
+                const prod_url = "https://put-me-in.onrender.com/submit_lineup/";
+
+                const response = await fetch(is_dev ? dev_url : prod_url, {
                     method: "POST",
                     headers: { "Content-Type": "application/json", 'accept': 'application/json' },
                     body: JSON.stringify(d)
