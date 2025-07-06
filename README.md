@@ -6,7 +6,7 @@ Current Projects:
 
 Email: <a href="mailto:samrandall@alumni.stanford.edu">samrandall@alumni.stanford.edu</a>
 
-<a href="https://sam-randall.github.io/samrandall.github.io/resume/Samuel_Randall_Engineering_Impact_Jan_2025.pdf" target="_blank">Resume</a>
+<a href="https://sam-randall.github.io/samrandall.github.io/resume/MathematicalEngineerResume.pdf" target="_blank">Resume</a>
 
 #### Core Aims
 Solve real-world problems by building software solutions
