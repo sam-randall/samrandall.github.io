@@ -1,6 +1,10 @@
 # Sam Randall
 
 Current Projects:
+
+- software package, `moco`, to make  classification models more computationally efficient in their forward pass -> accelerating models in inference, and reducing energy use of LLMs.
+    - <a href="https://compressmodels.github.io" target="_blank">Project Page</a> 
+
 - Create basketball lineups, supported by backend that runs optimization: 
 <a href="https://sam-randall.github.io/samrandall.github.io/basketball-lineup-app.html" target="_blank">Lineup App</a>
 
